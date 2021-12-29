@@ -1,0 +1,15 @@
+{
+  "name": "project1-thecoronatrackerapp",
+  "version": "1.0.0",
+  "description": "This app gives the full information about covid 19 related statistics(from news to different data)",
+  "main": "index.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2"
+  }
+}
